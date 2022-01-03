@@ -3,6 +3,11 @@
 I've been meaning to start keep a list of my favorite podcast episodes as I hear
 them, so here goes. Starting with...
 
+### How to Speak by Patrick Winston - MIT OpenCourseWare
+
+Required watching before you give any kind of talk at a conference or other technical talk. Incredible talk. 
+https://www.youtube.com/watch?v=Unzc731iCUY
+
 ### Syntax - Episode 408 - Troubleshooting
 Isolating, commenting, commiting, reading the error message, asking for help. Required listening for new developers. Sharpening your troubleshooting skills will make you a better developer. Learn how to troubleshoot in a methodical way so you don't get insanely frustrated. 
 https://syntax.fm/show/408/troubleshooting
