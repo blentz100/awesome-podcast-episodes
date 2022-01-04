@@ -3,6 +3,12 @@
 I've been meaning to start keep a list of my favorite podcast episodes as I hear
 them, so here goes. Starting with...
 
+
+### JS Party - Episode 206 - Frontend Feud: React Advanced Edition
+JS Party surveyed 100 Javascript Developers and used that as the basis to play a Family Feud type game - FrontEnd fued. 
+My biggest takeaway for new developers - “What’s the first thing you do when your code doesn’t work right?” - Number one answer was console.log.
+If you are not using console.log regularly - you should be! https://changelog.com/jsparty/206
+
 ### How to Speak by Patrick Winston - MIT OpenCourseWare
 
 Required watching before you give any kind of talk at a conference or other technical talk. Incredible talk. 
