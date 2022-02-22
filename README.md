@@ -1,7 +1,5 @@
 # awesome-podcast-episodes
 
-I've been meaning to start keep a list of my favorite podcast episodes as I hear
-them, so here goes. Starting with...
 
 
 ### JS Party - Episode 206 - Frontend Feud: React Advanced Edition
@@ -23,5 +21,9 @@ Featuring SWYX. "What I always say is you can learn so much on the internet, for
 price of your ego." Sean talks about the power of learning in public and his
 journey from finance to software developer. 
 https://changelog.com/podcast/467
+
+### The Changelog - Episode 479 - Principles for Hiring Engineers
+With Jacob Kaplan-Moss. Learn what a work sample is and why you should be using it in your hiring.
+https://changelog.com/podcast/479
 
 
