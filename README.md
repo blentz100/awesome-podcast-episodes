@@ -1,6 +1,9 @@
 # awesome-podcast-episodes
 
 
+### CodeNewbie - Episode 7 Season 19 - How freeCodeCamp has evolved over time Quincy Larson
+https://www.codenewbie.org/podcast/how-freecodecamp-has-evolved-over-time
+
 
 ### JS Party - Episode 206 - Frontend Feud: React Advanced Edition
 JS Party surveyed 100 Javascript Developers and used that as the basis to play a Family Feud type game - FrontEnd fued. 
