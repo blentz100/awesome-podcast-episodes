@@ -1,5 +1,7 @@
 # awesome-podcast-episodes
 
+### CodeNewbie - Episode 8 Season 18 - How to Use Different Memory Techniques to Learn
+https://www.codenewbie.org/podcast/how-to-use-different-memory-techniques-to-learn-coding
 
 ### CodeNewbie - Episode 7 Season 19 - How freeCodeCamp has evolved over time Quincy Larson
 https://www.codenewbie.org/podcast/how-freecodecamp-has-evolved-over-time
